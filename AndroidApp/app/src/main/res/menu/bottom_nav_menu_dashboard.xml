@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard_home_id"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:iconTint="#000000"
+        android:title="@string/dashboard_home" />
+
+    <item
+        android:id="@+id/dashboard_tracking_id"
+        android:icon="@drawable/baseline_edit_note_24"
+        android:iconTint="#000000"
+        android:title="@string/dashboard_tracking" />
+    <item
+        android:id="@+id/dashboard_history_id"
+        android:icon="@drawable/baseline_area_chart_24"
+        android:iconTint="#000000"
+        android:title="@string/dashboard_history" />
+    <item
+        android:id="@+id/dashboard_settings_id"
+        android:icon="@drawable/ic_cog_wheel_black_24dp"
+        android:iconTint="#000000"
+        android:title="@string/dashboard_settings" />
+
+</menu>

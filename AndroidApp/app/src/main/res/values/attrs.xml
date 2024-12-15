@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Declare custom attributes here -->
+    <attr name="colorBottomNavigation" format="color" />
+    <attr name="calendarBackgroundColor" format="color" />
+    <attr name="calendarTextColor" format="color" />
+</resources>

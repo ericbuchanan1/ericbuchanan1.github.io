@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pastel_green">#84A59D</color>
+    <color name="pastel_pink">#F5CAC3</color>
+    <color name="pastel_coral">#F28482</color>
+    <color name="black">#FF000000</color>
+    <color name="background_color">#6E84A59D</color>
+    <color name="bottom_nav_color">#F28482</color>
+    <color name="darker_orange">#F6BD60</color>
+    <color name="bottom_nav_color_light">#F6BD60</color> <!-- Light mode color -->
+    <color name="calendar_background_light">#FFFFFF</color> <!-- Light background -->
+    <color name="calendar_text_light">#000000</color> <!-- Dark text for light background -->
+
+    <color name="calendar_background_dark">#1B1D1D</color> <!-- Dark background -->
+    <color name="calendar_text_dark">#FFFFFF</color> <!-- Light text for dark background -->
+    <color name="bottom_nav_color_dark">#2C3D36</color>  <!-- Dark mode color -->
+    <color name="night_pastel_green">#2C3D36</color> <!-- Dark muted green, complementing pastel green -->
+    <color name="night_pastel_pink">#3F2F2B</color> <!-- Dark muted pink, complementing pastel pink -->
+    <color name="night_pastel_coral">#5B2D28</color> <!-- Dark muted coral, complementing pastel coral -->
+    <color name="night_black">#FFFAFAFA</color> <!-- Light grayish-white, contrast to black text -->
+    <color name="night_background_color">#1B1D1D</color> <!-- Dark gray background -->
+    <color name="night_bottom_nav_color">#5B2D28</color> <!-- Matches dark coral for bottom navigation -->
+    <color name="night_darker_orange">#AA8B39</color> <!-- Muted, darker orange for highlights -->
+    <color name="soft_blue">#6A89CC</color>
+</resources>
